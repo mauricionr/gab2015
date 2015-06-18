@@ -8,3 +8,6 @@ Basándonos en el stack MEAN , hemos dado una vuelta de tuerca y hemos desarroll
 * AngularJS - https://angularjs.org/
 * Node.js - https://nodejs.org/
 * ExpressJS - http://expressjs.com/
+* 
+
+Tks @lurumad
